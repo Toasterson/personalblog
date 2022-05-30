@@ -1,4 +1,4 @@
-baseURL = 'https://www.wegmueller.it/'
+baseURL = 'https://wegmueller.it/'
 languageCode = 'en-us'
 title = 'Toastys Blog'
 theme = "solar-theme-hugo"

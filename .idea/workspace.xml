@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="78aaec69-4b96-42e6-b2ee-20d66691f802" name="Changes" comment="Git fix submodule">
-      <change beforePath="$PROJECT_DIR$/content/posts/new-blog.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/new-blog.md" afterDir="false" />
+    <list default="true" id="78aaec69-4b96-42e6-b2ee-20d66691f802" name="Changes" comment="Remove draft">
+      <change beforePath="$PROJECT_DIR$/config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config.toml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +84,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653921606420</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Remove draft">
+      <created>1653921681051</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1653921681051</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,7 +116,8 @@
     <MESSAGE value="Add new Blog site and first post" />
     <MESSAGE value="Add Readme" />
     <MESSAGE value="Git fix submodule" />
-    <option name="LAST_COMMIT_MESSAGE" value="Git fix submodule" />
+    <MESSAGE value="Remove draft" />
+    <option name="LAST_COMMIT_MESSAGE" value="Remove draft" />
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>
