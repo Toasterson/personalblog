@@ -1,7 +1,7 @@
 ---
 title: "New Blog"
 date: 2022-05-30T11:14:16-03:00
-draft: true
+draft: false
 ---
 
 # New Blog Site
