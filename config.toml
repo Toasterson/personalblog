@@ -1,0 +1,6 @@
+baseURL = 'https://www.wegmueller.it/'
+languageCode = 'en-us'
+title = 'Toastys Blog'
+theme = "solar-theme-hugo"
+paginate = 5
+pygmentsStyle = "solarized-dark" # solarized-light, -dark or -dark256
