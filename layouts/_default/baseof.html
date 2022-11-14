@@ -11,8 +11,7 @@
 
 	<title>{{ .Title }}</title>
 
-	{{ $style := resources.Get (printf "css/colors-%s.scss" (.Site.Params.scheme | default "dark")) | toCSS | minify |
-	fingerprint }}
+	{{ $style := resources.Get (printf "css/colors-%s.scss" (.Site.Params.scheme | default "dark")) | toCSS | minify | fingerprint }}
 	<link rel="stylesheet" href="{{ $style.Permalink }}">
 </head>
 
